@@ -1,0 +1,5 @@
+Got the LED to blink then changed the code so that it faded 
+
+Wrote a new sketch that checks the temperature and humidity
+ - Ran into an issue where the it couldn't read the data
+ - "#define DHTTYPE DHT22" needed to be changed to "DHT11" and it worked
